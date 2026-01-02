@@ -73,13 +73,9 @@ Contributing
 
 Contributions are welcome. If you'd like to add features or improve the pipeline, please open an issue or submit a pull request. Keep changes focused and include tests or example outputs when appropriate.
 
-License
-
-This repository does not currently contain a license. If you want to add one, consider adding an open-source license such as MIT or Apache-2.0.
-
 Contact
 
-Maintainer: Guilherme Henrique de Paula (<euamojaguatirica@gmail.com>)
+Maintainer: Guilherme Henrique de Paula (<gui.depaula236@gmail.com>)
 
 Notes
 
